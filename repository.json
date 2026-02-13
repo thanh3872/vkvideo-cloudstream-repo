@@ -1,0 +1,15 @@
+{
+  "name": "VKVideo Repository",
+  "description": "VKVideo CloudStream Extension",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "VKVideo",
+      "description": "VKVideo Provider",
+      "version": 1,
+      "language": "kotlin",
+      "url": "https://raw.githubusercontent.com/thanh3872/vkvideo-cloudstream-repo/main/VKVideo.jar",
+      "iconUrl": ""
+    }
+  ]
+}
